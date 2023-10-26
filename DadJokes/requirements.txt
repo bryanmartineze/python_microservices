@@ -1,0 +1,5 @@
+# requirements.txt
+flask
+requests
+gunicorn
+flask-cors
