@@ -14,4 +14,4 @@ COPY . .
 EXPOSE 3030
 
 
-CMD [ "node", "server.js" ]
+CMD [ "node", "server.js" ]docker 
